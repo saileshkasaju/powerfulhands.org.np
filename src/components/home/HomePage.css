@@ -1,0 +1,6 @@
+.jumbotron {
+ /*make background slider images as background*/
+    background-image: url("../../images/test.jpg");
+    background-color: #cccccc;
+}
+
